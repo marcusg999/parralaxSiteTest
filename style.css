@@ -21,3 +21,10 @@ h2 {
     letter-spacing: 1%;
     margin: 45% 0;
 }
+ /*Start Parallax*/
+
+.parallax {
+  background: url("http://www.w3newbie.com/wp-content/uploads/parallax-2.jpg") repeat fixed 100%;
+}
+
+ /*Start Parallax*/
